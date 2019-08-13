@@ -2,9 +2,7 @@
   "builds": [
     { 
       "preset": "es5-bundled",
-      "js": {
-        "minify": false
-      }
+      "bundle": false
     }
   ],
   "extraDependencies": [
