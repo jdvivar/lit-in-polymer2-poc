@@ -1,6 +1,14 @@
 {
   "builds": [
-    { "preset": "es5-bundled" }
+    { 
+      "preset": "es5-bundled",
+      "js": {
+        "minify": false
+      }
+    }
+  ],
+  "extraDependencies": [
+    "manifest.json"
   ],
   "lint": {
     "rules": [
