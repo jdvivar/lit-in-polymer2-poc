@@ -15,5 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "bower": "^1.8.8"
+  },
+  "dependencies": {
+    "@lion/button": "^0.3.5"
   }
 }
