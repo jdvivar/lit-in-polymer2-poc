@@ -1,6 +1,6 @@
 {
-  "name": "simple",
-  "main": "index.html",
+  "name": "simple-wc",
+  "main": "build/es5-bundled/simple-wc.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
   },

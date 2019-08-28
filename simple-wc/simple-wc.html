@@ -1,7 +1,7 @@
-<link rel="import" href="../../bower_components/polymer/polymer-element.html">
-<script type="module" src="../../node_modules/@lion/button/lion-button.js"></script>
+<link rel="import" href="bower_components/polymer/polymer-element.html">
+<script type="module" src="node_modules/@lion/button/lion-button.js"></script>
 
-<dom-module id="simple-app">
+<dom-module id="simple-wc">
   <template>
     <style>
       :host {
@@ -20,18 +20,18 @@
      * @customElement
      * @polymer
      */
-    class SimpleApp extends Polymer.Element {
-      static get is() { return 'simple-app'; }
+    class SimpleWC extends Polymer.Element {
+      static get is() { return 'simple-wc'; }
       static get properties() {
         return {
           prop1: {
             type: String,
-            value: 'simple-app'
+            value: 'simple-wc'
           }
         };
       }
     }
 
-    window.customElements.define(SimpleApp.is, SimpleApp);
+    window.customElements.define(SimpleWC.is, SimpleWC);
   </script>
 </dom-module>

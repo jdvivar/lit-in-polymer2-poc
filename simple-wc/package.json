@@ -1,0 +1,22 @@
+{
+  "name": "simple-wc",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "polymer build",
+    "postinstall": "bower install"
+  },
+  "keywords": [
+    "polymer2",
+    "webcomponents",
+    "litelement"
+  ],
+  "author": "Daniel Vivar",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "1.8.8",
+    "polymer-cli": "1.9.11"
+  },
+  "dependencies": {
+    "@lion/button": "0.3.5"
+  }
+}

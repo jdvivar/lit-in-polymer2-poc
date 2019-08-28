@@ -1,0 +1,14 @@
+{
+  "entrypoint": "simple-wc.html",
+  "builds": [
+    { 
+      "preset": "es5-bundled",
+      "addServiceWorker": false
+    }
+  ],
+  "lint": {
+    "rules": [
+      "polymer-2"
+    ]
+  }
+}
