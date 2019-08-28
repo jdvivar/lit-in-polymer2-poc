@@ -10,7 +10,7 @@ This POC tries to show 2 separate working parts together:
 
 - Demonstrates we can use LitElement components inside Polymer 2 components ✅ 
 - Demonstrates how to build this kind of components and how to use it in a website via soon-to-be-deprecated HTML Imports ✅ 
-- Demonstrates this works both in modern (Chrome, Firefox, Safari) and old browsers (IE11) ✅ 
+- Demonstrates this works in both modern (Chrome, Firefox, Safari) and older browsers (IE11) ✅ 
 
 ## ⚙️ Web Component
 
