@@ -7,7 +7,9 @@
   "version": "1.0.0",
   "description": "POC to show how to integrate LitElements into Polymer 2 app",
   "scripts": {
-
+    "build:wc": "cd ./simple-wc && npm i && npm run build",
+    "build:web": "cd ./web && npm i",
+    "build": "npm run build:wc && npm run build:web"
   },
   "keywords": [
     "polymer2",

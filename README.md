@@ -58,3 +58,11 @@ $ npm i
 ```
 $ npm run start
 ```
+
+### All at the same time
+
+I wrote a main build script to do everything so that the demo is easier to deploy, from the main directory, just:
+
+```
+$ npm run build
+```
