@@ -6,11 +6,8 @@
   },
   "version": "1.0.0",
   "description": "POC to show how to integrate LitElements into Polymer 2 app",
-  "main": "index.html",
   "scripts": {
-    "build": "polymer build",
-    "start": "polymer serve",
-    "postinstall": "bower install"
+
   },
   "keywords": [
     "polymer2",
@@ -18,12 +15,5 @@
     "litelement"
   ],
   "author": "Daniel Vivar",
-  "license": "ISC",
-  "devDependencies": {
-    "bower": "1.8.8",
-    "polymer-cli": "1.9.11"
-  },
-  "dependencies": {
-    "@lion/button": "0.3.5"
-  }
+  "license": "MIT"
 }
