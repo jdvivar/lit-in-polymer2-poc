@@ -3,7 +3,11 @@
   "builds": [
     { 
       "preset": "es5-bundled",
-      "addServiceWorker": false
+      "bundle": false,
+      "addServiceWorker": false,
+      "js": {
+        "transformModulesToAmd": true
+      }
     }
   ],
   "lint": {
