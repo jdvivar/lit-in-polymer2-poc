@@ -1,5 +1,5 @@
 {
-  "entrypoint": "simple-wc.html",
+  "entrypoint": "index.html",
   "builds": [
     { 
       "preset": "es5-bundled",
@@ -8,11 +8,13 @@
       "js": {
         "transformModulesToAmd": true
       }
+    },
+    { 
+      "preset": "es6-unbundled",
+      "addServiceWorker": false,
+      "js": {
+        "transformModulesToAmd": false
+      }
     }
-  ],
-  "lint": {
-    "rules": [
-      "polymer-2"
-    ]
-  }
+  ]
 }
