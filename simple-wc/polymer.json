@@ -3,6 +3,7 @@
   "builds": [
     { 
       "preset": "es5-bundled",
+      "name": "es5",
       "bundle": false,
       "addServiceWorker": false,
       "js": {
@@ -11,6 +12,7 @@
     },
     { 
       "preset": "es6-unbundled",
+      "name": "es6",
       "addServiceWorker": false,
       "js": {
         "transformModulesToAmd": false
