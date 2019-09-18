@@ -1,18 +1,8 @@
 {
-  "name": "lit-in-polymer2-poc",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jdvivar/lit-in-polymer2-poc.git"
-  },
+  "name": "cms-front-architecture-poc",
   "version": "1.0.0",
-  "description": "POC to show how to integrate LitElements into Polymer 2 app",
-  "scripts": {
-    "build:wc": "cd ./simple-wc && npm i && npm run build",
-    "build:web": "cd ./web && npm i",
-    "build": "npm run build:wc && npm run build:web"
-  },
+  "description": "POC to show how to evolve a CMS based on LitElement web components",
   "keywords": [
-    "polymer2",
     "webcomponents",
     "litelement"
   ],

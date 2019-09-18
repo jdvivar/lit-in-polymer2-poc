@@ -1,0 +1,12 @@
+{
+    "name": "components-app",
+    "author": "Daniel Vivar",
+    "license": "MIT",
+    "scripts": {
+        "build": "polymer build"
+    },
+    "devDependencies": {
+        "components-catalog": "../components-catalog",
+        "polymer-cli": "^1.9.11"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "components-catalog",
+    "version": "1.0.0",
+    "author": "Daniel Vivar",
+    "license": "MIT",
+    "peerDependencies": {
+      "simple-wc-1": "./node_modules/simple-wc-1",
+      "simple-wc-2": "./node_modules/simple-wc-2"
+    }
+  }

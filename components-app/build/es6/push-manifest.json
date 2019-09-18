@@ -1,0 +1,372 @@
+{
+  "index.html": {
+    "node_modules/components-catalog/node_modules/simple-wc-1/simple-wc-1.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/src/SimpleWc1.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-element/lit-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lit-html.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/default-template-processor.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/parts.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/directive.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/dom.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/part.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/template-instance.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/template.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/template-result.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/render.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/template-factory.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/shady-render.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/lib/modify-template.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-element/lib/updating-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-element/lib/decorators.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-element/lib/css-tag.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/button/lion-button.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/button/src/LionButton.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/index.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/async-append.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/async-replace.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/cache.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/class-map.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/guard.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/if-defined.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/repeat.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/style-map.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/unsafe-html.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/lit-html/directives/until.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/node_modules/lit-element/lit-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/node_modules/lit-element/lib/updating-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/node_modules/lit-element/lib/decorators.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/node_modules/lit-element/lib/css-tag.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/dedupeMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/DelegateMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/DomHelpersMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/LionSingleton.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/SlotMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/DisabledMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/DisabledWithTabIndexMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/LionLitElement.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/ElementMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-1/node_modules/%40lion/core/src/lit-html.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/simple-wc-2.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/src/SimpleWc2.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-element/lit-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lit-html.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/default-template-processor.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/parts.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/directive.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/dom.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/part.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/template-instance.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/template.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/template-result.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/render.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/template-factory.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/shady-render.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/lib/modify-template.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-element/lib/updating-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-element/lib/decorators.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-element/lib/css-tag.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/button/lion-button.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/button/src/LionButton.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/index.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/async-append.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/async-replace.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/cache.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/class-map.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/guard.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/if-defined.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/repeat.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/style-map.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/unsafe-html.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/lit-html/directives/until.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/node_modules/lit-element/lit-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/node_modules/lit-element/lib/updating-element.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/node_modules/lit-element/lib/decorators.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/node_modules/lit-element/lib/css-tag.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/dedupeMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/DelegateMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/DomHelpersMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/LionSingleton.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/SlotMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/DisabledMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/DisabledWithTabIndexMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/LionLitElement.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/ElementMixin.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/components-catalog/node_modules/simple-wc-2/node_modules/%40lion/core/src/lit-html.js": {
+      "type": "script",
+      "weight": 1
+    }
+  }
+}

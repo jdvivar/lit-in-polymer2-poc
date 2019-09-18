@@ -1,0 +1,13 @@
+{
+    "name": "components-server",
+    "author": "Daniel Vivar",
+    "license": "MIT",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "components-app": "../components-app",
+        "cors": "2.8.5",
+        "express": "4.17.1"
+    }
+}

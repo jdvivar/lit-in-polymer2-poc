@@ -1,9 +1,0 @@
-{
-  "name": "simple-wc-demo",
-  "dependencies": {
-    "simple-wc": "../simple-wc/build/"
-  },
-  "devDependencies": {
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.1.0"
-  }
-}

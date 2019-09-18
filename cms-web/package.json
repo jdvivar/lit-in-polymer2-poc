@@ -1,0 +1,14 @@
+{
+    "name": "cms-web",
+    "author": "Daniel Vivar",
+    "license": "MIT",
+    "scripts": {
+        "start": "http-server -o --cors"
+    },
+    "dependencies": {
+        "@webcomponents/webcomponentsjs": "1.3.3"
+    },
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    }
+}
