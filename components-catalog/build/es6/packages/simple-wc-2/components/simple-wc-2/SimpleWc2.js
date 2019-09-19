@@ -1,4 +1,4 @@
-import{css,html,LitElement}from"../node_modules/lit-element/lit-element.js";import"../node_modules/@lion/button/lion-button.js";export class SimpleWc2 extends LitElement{static get styles(){return css`
+import{css,html,LitElement}from"../../node_modules/lit-element/lit-element.js";import"../../node_modules/@lion/button/lion-button.js";export class SimpleWc2 extends LitElement{static get styles(){return css`
       :host {
         display: block;
         border: 1px solid lightgrey;
