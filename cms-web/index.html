@@ -11,25 +11,25 @@
     </style>
 
     <!-- Web Components Polyfills for IE11 -->
-    <script src="node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+    <script src="@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
 
     <!-- Polyfills for IE11, e.g. Symbol -->
     <!-- TBD: use a different polyfill in production -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es2015"></script>
 
     <!-- Polyfills added by Polymer CLI in produced index.html when building with ES5 presets -->
-    <script src="polymer-build-polyfills.1.js"></script>
-    <script src="polymer-build-polyfills.2.js"></script>
-    <script src="polymer-build-polyfills.3.js"></script>
+    <script src="polymer-polyfills/polymer-build-polyfills.1.js"></script>
+    <script src="polymer-polyfills/polymer-build-polyfills.2.js"></script>
+    <script src="polymer-polyfills/polymer-build-polyfills.3.js"></script>
 
     <!-- Deduping define definitions-->
     <script src="customElements-define-dedupe.js"></script>
 
     <!-- ESM ES6 bundle and AMD ES5 bundle -->
-    <script type="module" src="http://localhost:8090/components/simple-wc-1/simple-wc-1.js"></script>
-    <script nomodule      src="http://localhost:8090/components/es5/simple-wc-1/simple-wc-1.js"></script>
-    <script type="module" src="http://localhost:8090/components/simple-wc-2/simple-wc-2.js"></script>
-    <script nomodule      src="http://localhost:8090/components/es5/simple-wc-2/simple-wc-2.js"></script>
+    <script type="module" src="components/simple-wc-1/index.js"></script>
+    <script nomodule      src="components/es5/simple-wc-1/index.js"></script>
+    <script type="module" src="components/simple-wc-2/index.js"></script>
+    <script nomodule      src="components/es5/simple-wc-2/index.js"></script>
   </head>
   <body>
     <simple-wc-1></simple-wc-1>
