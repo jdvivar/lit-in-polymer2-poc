@@ -6,6 +6,7 @@
         "start": "node server.js"
     },
     "dependencies": {
+        "@financial-times/polyfill-useragent-normaliser": "^1.4.2",
         "components-app": "../components-app",
         "cors": "2.8.5",
         "express": "4.17.1"
