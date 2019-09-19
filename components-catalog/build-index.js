@@ -2,7 +2,7 @@ const jsdom = require('jsdom')
 const path = require('path')
 const fs = require('fs')
 
-const originDirectory = path.join('node_modules', 'components-catalog', 'node_modules')
+const originDirectory = 'packages'
 
 console.log('Adding modules from the catalog to index.html:\n')
 main()

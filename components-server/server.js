@@ -20,8 +20,8 @@ app.use('/components/es5', (request, res, next) => {
 })
 
 app.use('/components/es5', express.static(path.join(__dirname,
-    'node_modules/components-app/build/es5/node_modules/components-catalog/node_modules'
+    'node_modules/components-catalog/build/es5/packages/'
 )))
 app.use('/components', express.static(path.join(__dirname,
-    'node_modules/components-app/build/es6/node_modules/components-catalog/node_modules'
+    'node_modules/components-catalog/build/es6/packages'
 )))

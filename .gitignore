@@ -1,2 +1,6 @@
 .netlify
 .DS_Store
+
+# Ignoring locks as working in different npmrc registries causes errors
+package-lock.json
+yarn.lock
