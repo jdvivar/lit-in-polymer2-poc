@@ -4,7 +4,7 @@
       "type": "script",
       "weight": 1
     },
-    "packages/simple-wc-1/SimpleWc1.js": {
+    "packages/simple-wc-1/simple-wc-1/SimpleWc1.js": {
       "type": "script",
       "weight": 1
     },
@@ -188,7 +188,7 @@
       "type": "script",
       "weight": 1
     },
-    "packages/simple-wc-2/SimpleWc2.js": {
+    "packages/simple-wc-2/simple-wc-2/SimpleWc2.js": {
       "type": "script",
       "weight": 1
     },
