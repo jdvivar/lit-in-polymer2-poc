@@ -15,7 +15,7 @@ async function main() {
 }
 
 function writeFile(fileName, contents) {
-    fs.writeFile(fileName, context, err => {
+    fs.writeFile(fileName, contents, err => {
         if (err) {
             console.log(`❌ I can't write index.html`, err)
         } else {

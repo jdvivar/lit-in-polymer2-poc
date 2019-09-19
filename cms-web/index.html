@@ -22,11 +22,17 @@
     <script src="polymer-build-polyfills.2.js"></script>
     <script src="polymer-build-polyfills.3.js"></script>
 
+    <!-- Deduping define definitions-->
+    <script src="customElements-define-dedupe.js"></script>
+
     <!-- ESM ES6 bundle and AMD ES5 bundle -->
     <script type="module" src="http://localhost:8090/components/simple-wc-1/simple-wc-1.js"></script>
     <script nomodule      src="http://localhost:8090/components/es5/simple-wc-1/simple-wc-1.js"></script>
+    <script type="module" src="http://localhost:8090/components/simple-wc-2/simple-wc-2.js"></script>
+    <script nomodule      src="http://localhost:8090/components/es5/simple-wc-2/simple-wc-2.js"></script>
   </head>
   <body>
     <simple-wc-1></simple-wc-1>
+    <simple-wc-2></simple-wc-2>
   </body>
 </html>
