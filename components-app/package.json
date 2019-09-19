@@ -5,8 +5,10 @@
     "scripts": {
         "build": "node build-index.js && polymer build"
     },
-    "devDependencies": {
+    "dependencies": {
         "components-catalog": "../components-catalog",
+    },
+    "devDependencies": {
         "jsdom": "15.1.1",
         "polymer-cli": "1.9.11"
     }
