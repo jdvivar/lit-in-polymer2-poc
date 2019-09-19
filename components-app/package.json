@@ -3,10 +3,11 @@
     "author": "Daniel Vivar",
     "license": "MIT",
     "scripts": {
-        "build": "polymer build"
+        "build": "node build-index.js && polymer build"
     },
     "devDependencies": {
         "components-catalog": "../components-catalog",
-        "polymer-cli": "^1.9.11"
+        "jsdom": "15.1.1",
+        "polymer-cli": "1.9.11"
     }
 }
