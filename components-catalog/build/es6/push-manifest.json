@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "packages/simple-wc-1/simple-wc-1.js": {
+    "packages/simple-wc-1/index.js": {
       "type": "script",
       "weight": 1
     },
@@ -184,7 +184,7 @@
       "type": "script",
       "weight": 1
     },
-    "packages/simple-wc-2/simple-wc-2.js": {
+    "packages/simple-wc-2/index.js": {
       "type": "script",
       "weight": 1
     },
