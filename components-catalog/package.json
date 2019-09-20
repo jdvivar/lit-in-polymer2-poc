@@ -6,9 +6,10 @@
   "scripts": {
     "build:index": "node build-index.js",
     "build:modules": "node copy-es5-node-modules.js",
-    "build": "node build-index.js && polymer build"
+    "build": "npm run build:index && polymer build && npm run build:modules"
   },
   "devDependencies": {
+    "fs-extra": "8.1.0",
     "jsdom": "15.1.1",
     "polymer-cli": "1.9.11"
   }

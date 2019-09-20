@@ -2,7 +2,7 @@ const fs = require('fs-extra')
 const path = require('path')
 
 const originDirectory = path.normalize('build/es5/packages')
-const destinationDirectory = path.normalize('node_modules')
+const destinationDirectory = path.normalize('build/es5/node_modules')
 
 console.log('\n====================\n')
 console.log('Copying ES5 modules from ES5 builds into node_modules:\n')
@@ -31,6 +31,9 @@ function main() {
 }
 
 function copy(origin, destination) {
+    if (!fs.existsSync(destination)){
+        fs.mkdirSync(destination, { recursive: true });
+    }
     try {
         if (!fs.accessSync(destination) && !fs.accessSync(origin)) {
             fs.copySync(origin, destination)
