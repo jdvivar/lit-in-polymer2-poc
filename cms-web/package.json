@@ -6,7 +6,8 @@
         "start": "node dev-server.js"
     },
     "devDependencies": {
-        "express": "^4.17.1",
-        "http-proxy-middleware": "^0.20.0"
+        "components-catalog": "../components-catalog",
+        "express": "4.17.1",
+        "http-proxy-middleware": "0.20.0"
     }
 }

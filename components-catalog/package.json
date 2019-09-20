@@ -4,11 +4,13 @@
   "author": "Daniel Vivar",
   "license": "MIT",
   "scripts": {
-    "build:index": "node build-index.js",
-    "build:modules": "node copy-es5-node-modules.js",
-    "build": "npm run build:index && polymer build && npm run build:modules"
+    "build:clean": "cd build/es5 && mv index.js index-commented.js && babel index-commented.js --out-file index.js && rm index-commented.js",
+    "build": "polymer build && npm run build:clean"
   },
   "devDependencies": {
+    "@babel/cli": "7.6.0",
+    "@babel/core": "7.6.0",
+    "babel-preset-minify": "^0.5.1",
     "fs-extra": "8.1.0",
     "jsdom": "15.1.1",
     "polymer-cli": "1.9.11"

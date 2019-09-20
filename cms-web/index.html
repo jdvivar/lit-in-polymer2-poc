@@ -21,16 +21,17 @@
     <script src="webfiles/polymer-polyfills/polymer-build-polyfills.1.js"></script>
     <script src="webfiles/polymer-polyfills/polymer-build-polyfills.2.js"></script>
     <script src="webfiles/polymer-polyfills/polymer-build-polyfills.3.js"></script>
+   
 
     <!-- Deduping define definitions-->
     <script src="webfiles/customElements-define-dedupe.js"></script>
 
-    <!-- FrontEnd server will serve ESM to modern browsers and AMD/ES5  -->
+    <!-- ESM ES6 components -->
     <script type="module" src="components/simple-wc-1/simple-wc-1.js"></script>
-    <script nomodule      src="components/es5/simple-wc-1/simple-wc-1.js"></script>
-
     <script type="module" src="components/simple-wc-2/simple-wc-2.js"></script>
-    <script nomodule      src="components/es5/simple-wc-2/simple-wc-2.js"></script>
+
+    <!-- AMD ES5 components bundle-->
+    <script nomodule src="components/es5/index.js"></script>
   </head>
   <body>
     <simple-wc-1></simple-wc-1>

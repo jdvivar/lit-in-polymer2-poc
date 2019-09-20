@@ -1,9 +1,9 @@
 {
-  "entrypoint": "index.html",
+  "entrypoint": "index.js",
   "fragments": [],
   "sources": [
     "src/**/*",
-    "index.html"
+    "index.js"
   ],
   "extraDependencies": [
     "bower_components/webcomponentsjs/*.js"
@@ -22,7 +22,7 @@
       "html": {
         "minify": true
       },
-      "bundle": false,
+      "bundle": true,
       "addServiceWorker": false,
       "addPushManifest": false,
       "preset": "es5-bundled"
@@ -46,7 +46,7 @@
       },
       "bundle": false,
       "addServiceWorker": false,
-      "addPushManifest": true,
+      "addPushManifest": false,
       "preset": "es6-unbundled"
     }
   ],
