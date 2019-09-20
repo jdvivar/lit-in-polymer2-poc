@@ -4,6 +4,8 @@
   "author": "Daniel Vivar",
   "license": "MIT",
   "scripts": {
+    "build:index": "node build-index.js",
+    "build:modules": "node copy-es5-node-modules.js",
     "build": "node build-index.js && polymer build"
   },
   "devDependencies": {

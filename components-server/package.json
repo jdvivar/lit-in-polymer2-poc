@@ -7,7 +7,7 @@
     },
     "dependencies": {
         "@financial-times/polyfill-useragent-normaliser": "1.4.2",
-        "components-catalog": "../components-catalog",
+        "components-catalog": "../components-catalog/build",
         "cors": "2.8.5",
         "express": "4.17.1"
     }

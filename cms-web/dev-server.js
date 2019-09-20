@@ -8,33 +8,9 @@ const path = require('path')
 const app = express()
 
 app.use(
-    '/components',
+    ['/components', '/node_modules', '/src'],
     proxy({
         target: `http://localhost:8090`,
-        changeOrigin: true
-    })
-)
-
-app.use(
-    '/SimpleWc1.js',
-    proxy({
-        target: `http://localhost:8090/components/es5/simple-wc-1`,
-        changeOrigin: true
-    })
-)
-
-app.use(
-    '/SimpleWc2.js',
-    proxy({
-        target: `http://localhost:8090/components/es5/simple-wc-2`,
-        changeOrigin: true
-    })
-)
-
-app.use(
-    '/node_modules',
-    proxy({
-        target: `http://localhost:8090/components/es5/simple-wc-1`,
         changeOrigin: true
     })
 )
