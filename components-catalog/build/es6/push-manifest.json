@@ -1,10 +1,10 @@
 {
   "index.html": {
-    "packages/simple-wc-1/index.js": {
+    "packages/simple-wc-1/simple-wc-1.js": {
       "type": "script",
       "weight": 1
     },
-    "packages/simple-wc-1/components/es5/simple-wc-1/SimpleWc1.js": {
+    "packages/simple-wc-1/src/simple-wc-1.js": {
       "type": "script",
       "weight": 1
     },
@@ -184,11 +184,11 @@
       "type": "script",
       "weight": 1
     },
-    "packages/simple-wc-2/index.js": {
+    "packages/simple-wc-2/simple-wc-2.js": {
       "type": "script",
       "weight": 1
     },
-    "packages/simple-wc-2/components/es5/simple-wc-2/SimpleWc2.js": {
+    "packages/simple-wc-2/src/simple-wc-2.js": {
       "type": "script",
       "weight": 1
     },

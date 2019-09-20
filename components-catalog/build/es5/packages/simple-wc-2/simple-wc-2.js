@@ -1,0 +1,1 @@
+define(["./src/simple-wc-2.js"],function(_simpleWc){"use strict";window.customElements.define("simple-wc-2",_simpleWc.SimpleWc2)});

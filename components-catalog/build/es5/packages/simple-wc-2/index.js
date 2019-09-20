@@ -1,1 +1,0 @@
-define(["./components/es5/simple-wc-2/SimpleWc2.js"],function(_SimpleWc){"use strict";window.customElements.define("simple-wc-2",_SimpleWc.SimpleWc2)});

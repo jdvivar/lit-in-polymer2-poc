@@ -32,7 +32,7 @@ function addModulesToIndex(dom, modules) {
         // e.g. <script type=module src=path/to/my-web-component/my-web-component.js></script>
         const script = document.createElement('script')
         script.type = 'module'
-        script.src = path.join(originDirectory, module, 'index.js')
+        script.src = path.join(originDirectory, module, `${module}.js`)
         document.head.appendChild(script)
 
         // Adding module element to the body
