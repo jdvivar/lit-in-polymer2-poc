@@ -1,4 +1,4 @@
-# /<simple-wc/>
+# \<simple-wc\>
 
 This POC tries to mock the whole front-end architecture for a CMS based on LitElement Web Components.
 
