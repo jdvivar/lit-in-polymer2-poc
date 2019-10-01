@@ -1,0 +1,6 @@
+{
+  "name": "cms-web",
+  "dependencies": {
+    "ing-util-platform-lib": "^3.2.1"
+  }
+}

@@ -6,8 +6,12 @@
         "start": "node dev-server.js"
     },
     "devDependencies": {
+        "bower-art-resolver": "^2.0.10",
         "components-catalog": "../components-catalog",
         "express": "4.17.1",
         "http-proxy-middleware": "0.20.0"
+    },
+    "dependencies": {
+        "@webcomponents/webcomponentsjs": "^1.3.3"
     }
 }

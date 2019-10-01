@@ -21,5 +21,5 @@ A simple server for the components is necessary to avoid CORS and represent our 
 
 # Next steps
 
-- Use a specific set of polyfills instead of polyfills.io at `/cms-web/index.html`, probably `core-js`
+- ~~Use a specific set of polyfills instead of polyfills.io at `/cms-web/index.html`, probably `core-js`~~ 💅 Done! Using `ing-util-platform-lib`
 - Use a fresh instance of brXM (hippo) to create the demo page and parse a component using headContributions to load the necessary Web Component definition.
